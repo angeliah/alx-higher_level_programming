@@ -2,7 +2,8 @@
 
 # 10-add
 """adds two integers and returns the result."""
+total = 0;
 def add(a, b):
-    add = a + b;
-    print(add)
-    return(add)
+    total = a + b;
+    print(total)
+    return(total)
