@@ -5,4 +5,4 @@
 total = 0;
 def add(a, b):
     total = a + b;
-    print(total)
+    return(total)
