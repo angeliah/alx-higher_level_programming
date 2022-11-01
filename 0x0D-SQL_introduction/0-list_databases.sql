@@ -1,2 +1,4 @@
---script that lists all databases of my MySQL server
-mysql> SHOW DATABASES;
+-- script that lists all databases of my MySQL server
+
+mysql -u root -p
+SHOW databases;
